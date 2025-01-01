@@ -1,4 +1,4 @@
-[Application](https://xbox-bmw.vercel.app/login)
+[Application](https://xbox-bmw.vercel.app)
 
 Current Auth:
 
