@@ -1,4 +1,4 @@
-[Application](https://delightful-beach-06d2c4a03.azurestaticapps.net/)
+[Application](https://xbox-bmw.vercel.app/login)
 
 Current Auth:
 
